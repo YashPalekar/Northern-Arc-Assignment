@@ -1,0 +1,11 @@
+2023-02-09 12:29:02 info: tempDirectory:c:\Users\Yash\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-02-09 12:29:02 info: Extraction complete for source: c:\Users\Yash\.vscode\extensions\embold-vscode.embold-0.1.4\resources\embold-scanner-archive.zip, destination: c:\Users\Yash\.vscode\extensions\embold-vscode.embold-0.1.4\temp
+2023-02-09 12:29:02 info: Congratulations, your extension "Embold" is now active!
+2023-02-09 12:37:11 info: file:///d%3A/Web%20Development/react/excel/src/pages
+2023-02-09 12:37:11 error: SQLITE_ERROR: no such table: issues
+2023-02-09 12:56:34 info: file:///d%3A/Web%20Development/react/excel/node_modules/fsevents
+2023-02-09 12:56:34 error: SQLITE_ERROR: no such table: issues
+2023-02-09 13:15:50 info: file:///d%3A/Web%20Development/react/excel/node_modules/fsevents
+2023-02-09 13:15:50 error: SQLITE_ERROR: no such table: issues
+2023-02-09 15:13:04 info: file:///d%3A/Web%20Development/react/excel/public/styles.css
+2023-02-09 15:13:04 error: SQLITE_ERROR: no such table: issues

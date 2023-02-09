@@ -1,0 +1,35 @@
+* {
+   box-sizing: border-box;
+}
+
+.table-headings {
+   padding: 5px 0;
+   cursor: pointer;
+}
+
+.table-success {
+   background-color: #d1e7dd;
+}
+
+.disabled {
+   color: darkgray;
+   cursor: wait;
+}
+
+.table {
+   /* margin-top: 25px; */
+}
+
+.align-center {
+   display: flex;
+   justify-content: space-evenly;
+   flex-direction: column;
+   margin: 25px;
+   margin-inline: auto;
+   min-height: 100vh;
+}
+
+.form-check-input[type=checkbox] {
+   border: 2px solid black;
+   margin-inline: 2px;
+}
